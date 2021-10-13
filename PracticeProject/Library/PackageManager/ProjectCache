@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637697293140000000
+      ticks: 637697308510000000
     m_Hash: 2649009015
   m_LockFileStatus:
     m_FilePath: /Users/jvoitek13/Documents/GitHub/PracticeRepo/PracticeProject/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637697293180000000
+      ticks: 637697308510000000
     m_Hash: 737861715
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
